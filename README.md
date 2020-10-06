@@ -40,13 +40,13 @@ Data Visualizations were done using 'Matplotlib'.
 
 ## Tasks for the Assignment:
 
-A1. Append the data sets together from the two the sheets. You should have ~1 million records.
+P1. Append the data sets together from the two the sheets. You should have ~1 million records.
 
-A2. Create a “profile” of the data set (A1). That is, generate some stats like min, max, mean, missing counts, number of unique values etc.
+P2. Create a “profile” of the data set (P1). That is, generate some stats like min, max, mean, missing counts, number of unique values etc.
 
-A3. Create a StockCode, Invoice Year, Invoice Month level data set. That is, one row will represent unique StockCode, Invoice Year, Invoice Month combination. E.g. If a StockCode had invoices for 3 months for a particular year and 4 months for another year, then there should be only 7 records for that StockCode in the summarized data set.
+P3. Create a StockCode, Invoice Year, Invoice Month level data set. That is, one row will represent unique StockCode, Invoice Year, Invoice Month combination. E.g. If a StockCode had invoices for 5 months for a particular year and 3 months for another year, then there should be only 8 records for that StockCode in the summarized data set.
 
-A4. When creating the above dataset (in A3), the other attributes need to be summarized. In addition to the summarized columns you create, below columns needs to be created (for the StockCode-InvoiceYear- InvoiceMonth combination).
+P4. When creating the above dataset (from P3), the other attributes need to be summarized. In addition to the summarized columns you create, below columns needs to be created (for the StockCode-InvoiceYear- InvoiceMonth combination).
 
 a. Number of unique customers
 
@@ -62,9 +62,9 @@ f. Amount (quantity*price) below weighted average price (which calculated in e)
 
 g. Amount (quantity*price) above weighted average price (which calculated in e)
 
-A5. Give 5 insights which are interesting to you from the above dataset (A4).
+P5. Give 5 insights which are interesting to you from the above dataset (A4).
 
-A6. Referring to the main dataset in A1, create below grouping using the description column. Output should be a dataset with unique group column and corresponding description column and the corresponding StockCode.
+P6. Referring to the main dataset in A1, create below grouping using the description column. Output should be a dataset with unique group column and corresponding description column and the corresponding StockCode.
 
 a. Group based on the core item. For example, below items are all pencils.
 
@@ -72,14 +72,14 @@ b. Group this column based on some other criteria you think which will be useful
 
 ## Outputs of each Task:
 
-A1: Code. Mention total row count
+P1: Code. Mention total row count
 
-A2: Code and Visualizations
+P2: Code and Visualizations
 
-A3,A4: Code and Dataset
+P3,P4: Code and Dataset
 
-A5: Visualizations, bullet points
+P5: Visualizations, bullet points
 
-A6: Code and dataset with groupings.
+P6: Code and dataset with groupings.
 
 ## Generated dataset are in csv file with pipe delimited.
