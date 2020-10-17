@@ -5,7 +5,7 @@ Online Retails datasets of size over 1 Million records are joined, analyzed with
 This project highlights data manipulation using Pandas.
 
 
-## Datasets choosen: 
+## Datasets chosen: 
 Online Retail Datasets were picked from UCI Machine Learning Repository'https://archive.ics.uci.edu/ml/datasets/Online+Retail+II' 
 This Dataset has Multivariate, Sequential, Time-Series, Text characteristics. 
 Number of instances: 1067371
