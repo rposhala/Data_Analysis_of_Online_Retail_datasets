@@ -1,5 +1,5 @@
 # Data_Analysis_of_Online_Retail_datasets
-Online Retails datasets of size over 1 Million records are joined, analyzed with the help of Pandas (performing all SQL operations) and the resultant dataset was grouped by Stock Description ordered with respect to frequency. Items are classified based on frequency of the words occured in combined dataset, Text classification has been done based on Term frequency using Python. Later items are categorized and most frequent categories were displayed.
+Online Retails datasets of size over 1 Million records are joined, analyzed with the help of Pandas (performing all SQL operations) and the resultant dataset was grouped by Stock Description ordered with respect to frequency. Items are classified based on frequency of the words ocurred in combined dataset, Text classification has been done based on Term frequency using Python. Later items are categorized and most frequent categories were displayed.
 
 
 This project highlights data manipulation using Pandas.
